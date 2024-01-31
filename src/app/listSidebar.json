@@ -1,4 +1,1 @@
-[
-  { "label": "Página Inicial", "route": "/" },
-  { "label": "Registros de novos Clientes", "route": "/creationClient" }
-]
+[{ "label": "Página Inicial", "route": "/" }]
